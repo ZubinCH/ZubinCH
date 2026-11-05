@@ -1,7 +1,8 @@
-- Hi, I’m @ZubinCH
-- I’m a new programmer interested in low level programming, embedded systems, and cybersecurity.
+# Hi, I’m *@ZubinCH*
+- I’m a new programmer exploring programming in C, data structures and algorithms, numerical methods, and neural networks
 - I’m currently learning C, python, and SQL programming.
-- How to reach me: contact me via my email (chowdhuryzubin@gmail.com) if you wish to contact me for any reason. 
+- I will start a double degree in maths and computer science in July 2027
+- How to reach me: contact me via my email (chowdhuryzubin@gmail.com).
 
 <!---
 ZubinCH/ZubinCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
