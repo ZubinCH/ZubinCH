@@ -1,10 +1,18 @@
-# Hi, I’m *@ZubinCH*
-- I’m a new programmer exploring programming in C, data structures and algorithms, numerical methods, and neural networks
-- I’m currently learning C, python, and SQL programming.
-- I will start a double degree in maths and computer science in July 2027
-- How to reach me: contact me via my email (chowdhuryzubin@gmail.com).
+# @ZubinCH
+I'm a new programmer exploring the foundations of programming. I'm currently learning more about memory management, data structures, algorithms, back-propagation in neural networks, and numerical work involving computation in C.
 
-<!---
-ZubinCH/ZubinCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently learning C, python, and SQL programming. I have previous experience working with HTML, CSS, PHP, and JavaScript from high school.
+
+I will start a double degree in mathematics (honours) and computer science in July 2027.
+
+
+## Contacts
+Email: chowdhuryzubin@gmail.com
+[LinkedIn](https://www.linkedin.com/in/zubin-chowdhury-645a03442/)
+
+
+## Current Objectives / Active Projects
+- Finish Harvard University's CS50X Introduction to Computer Science ([active repository](https://github.com/ZubinCH/Harvard-CS50/))
+- Finish my linear algebra library
+- Create a scalable program in C for back-propagation in neural networks
+- Start learning more about python libraries for data analysis
