@@ -8,6 +8,7 @@ I will start a double degree in mathematics (honours) and computer science in Ju
 
 ## Contacts
 Email: chowdhuryzubin@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/zubin-chowdhury-645a03442/)
 
 
