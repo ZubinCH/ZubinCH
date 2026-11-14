@@ -17,3 +17,7 @@ Email: chowdhuryzubin@gmail.com
 - Finish my linear algebra library
 - Create a scalable program in C for back-propagation in neural networks
 - Start learning more about python libraries for data analysis
+
+
+## Recent Accomplishments
+- Implemented a trie data structure in C for loading the words of a dictionary with 140k+ words and comparing files to see what words may be misspelled.
