@@ -14,8 +14,8 @@ Email: chowdhuryzubin@gmail.com
 
 ## Current Objectives / Active Projects
 - Finish Harvard University's CS50X Introduction to Computer Science ([active repository](https://github.com/ZubinCH/Harvard-CS50/))
-- Finish my linear algebra library
-- Create a scalable program in C for back-propagation in neural networks
+- Finish my linear algebra library ([active repository](https://github.com/ZubinCH/Linear-Algebra-Library))
+- Create a scalable program in C for back-propagation in neural networks ([active repository](https://github.com/ZubinCH/ML-Projects/tree/main/neural-networks))
 - Start learning more about python libraries for data analysis
 
 
